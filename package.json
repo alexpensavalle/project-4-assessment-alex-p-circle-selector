@@ -1,7 +1,7 @@
 {
   "name": "project-4-assessment-alex-p",
   "version": "0.1.0",
-  "homepage": "https://github.com/alexpensavalle/project-4-assessment-alex-p-circle-selector.git",
+  "homepage": "https://alexpensavalle.github.io/project-4-assessment-alex-p-circle-selector",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
