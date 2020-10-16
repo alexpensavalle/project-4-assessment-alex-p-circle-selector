@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bffb92df5b21eff1cfdfad6f647329b6",
+    "revision": "423be871fa8e5f38c5d9eef6e6c6288f",
     "url": "/project-4-assessment-alex-p-circle-selector/index.html"
   },
   {
-    "revision": "a1bbf80d3c247d316beb",
+    "revision": "fb1e066cdf7cd9173f12",
     "url": "/project-4-assessment-alex-p-circle-selector/static/css/main.2ddb3bd6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project-4-assessment-alex-p-circle-selector/static/js/2.e8fb8908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1bbf80d3c247d316beb",
-    "url": "/project-4-assessment-alex-p-circle-selector/static/js/main.da627131.chunk.js"
+    "revision": "fb1e066cdf7cd9173f12",
+    "url": "/project-4-assessment-alex-p-circle-selector/static/js/main.e5ec2a53.chunk.js"
   },
   {
     "revision": "39401bb2ff4287ab141c",
