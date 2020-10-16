@@ -27,7 +27,7 @@ const CircleSelector = props => {
                 onClick={handleChange}>{props.selected === 'circleThree' ? 'Circle 3 Selected' : 'Select Circle 3' }
             </button>
             <button 
-                className={props.selected === 'circle4' ? 'selected' : ''} 
+                className={props.selected === 'circleFour' ? 'selected' : ''} 
                 value='circleFour' 
                 onClick={handleChange}>{props.selected === 'circle4' ? 'Circle 4 Selected' : 'Select Circle 4' }
             </button>
