@@ -17,10 +17,17 @@ class App extends Component {
       selected: circle
     })
   }
+
+  sectionStyle = {
+    width: "100%",
+    height: "100vh",
+    backgroundImage: "url(https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)",
+  };
+  
   
   render() {
     return (
-      <div className="App">
+      <div className="App" style={this.sectionStyle}>
         <header className="App-header">Alex Pensavalle - SEI-9 UNIT 4 FINAL ASSESSMENT</header>
         <main>
           <CircleSelector

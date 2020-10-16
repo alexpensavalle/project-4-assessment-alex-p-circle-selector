@@ -14,7 +14,7 @@ body, * {
   width: 100%;
   padding: 20px;
   font-size: 24px;
-  background-color: grey;
+  background-color: rgba(0, 0, 0, 0.324);
   color: white;
   text-align: center;
   letter-spacing: 3px;
