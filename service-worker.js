@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/project-4-assessment-alex-p-circle-selector/precache-manifest.d60d5950e73ba8795c3d22635cb428e6.js"
+  "/project-4-assessment-alex-p-circle-selector/precache-manifest.b149b797b83b3a3ba5ac7741c3a764a2.js"
 );
 
 self.addEventListener('message', (event) => {
