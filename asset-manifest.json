@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/css/main.2ddb3bd6.chunk.css",
+    "main.js": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/main.468ef28c.chunk.js",
+    "main.js.map": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/main.468ef28c.chunk.js.map",
+    "runtime-main.js": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/runtime-main.26b853bb.js",
+    "runtime-main.js.map": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/runtime-main.26b853bb.js.map",
+    "static/js/2.e8fb8908.chunk.js": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/2.e8fb8908.chunk.js",
+    "static/js/2.e8fb8908.chunk.js.map": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/2.e8fb8908.chunk.js.map",
+    "index.html": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/index.html",
+    "precache-manifest.8191ae760c6bbaa4f488e97403c45d09.js": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/precache-manifest.8191ae760c6bbaa4f488e97403c45d09.js",
+    "service-worker.js": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/service-worker.js",
+    "static/css/main.2ddb3bd6.chunk.css.map": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/css/main.2ddb3bd6.chunk.css.map",
+    "static/js/2.e8fb8908.chunk.js.LICENSE.txt": "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/static/js/2.e8fb8908.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b853bb.js",
+    "static/js/2.e8fb8908.chunk.js",
+    "static/css/main.2ddb3bd6.chunk.css",
+    "static/js/main.468ef28c.chunk.js"
+  ]
+}
