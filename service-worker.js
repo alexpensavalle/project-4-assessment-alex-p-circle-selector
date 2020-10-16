@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/precache-manifest.8191ae760c6bbaa4f488e97403c45d09.js"
+  "/project-4-assessment-alex-p-circle-selector/precache-manifest.1f47a892bf8018a5cc4d0a1348f5c06d.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/alexpensavalle/project-4-assessment-alex-p-circle-selector.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/project-4-assessment-alex-p-circle-selector/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
