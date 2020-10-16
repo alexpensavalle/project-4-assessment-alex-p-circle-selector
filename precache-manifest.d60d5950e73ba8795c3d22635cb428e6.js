@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "423be871fa8e5f38c5d9eef6e6c6288f",
+    "revision": "c879de18bd84c9a467da5304a5736322",
     "url": "/project-4-assessment-alex-p-circle-selector/index.html"
   },
   {
-    "revision": "fb1e066cdf7cd9173f12",
-    "url": "/project-4-assessment-alex-p-circle-selector/static/css/main.2ddb3bd6.chunk.css"
+    "revision": "f31a434e2a3138aedf75",
+    "url": "/project-4-assessment-alex-p-circle-selector/static/css/main.a501c581.chunk.css"
   },
   {
     "revision": "ae5ce2c1012788efe90c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/project-4-assessment-alex-p-circle-selector/static/js/2.e8fb8908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb1e066cdf7cd9173f12",
-    "url": "/project-4-assessment-alex-p-circle-selector/static/js/main.e5ec2a53.chunk.js"
+    "revision": "f31a434e2a3138aedf75",
+    "url": "/project-4-assessment-alex-p-circle-selector/static/js/main.4e56f7c0.chunk.js"
   },
   {
     "revision": "39401bb2ff4287ab141c",
